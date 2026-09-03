@@ -103,7 +103,7 @@ Dense(num_classes, Softmax)
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/road-accident-severity-detection.git
+git clone https://github.com/Aahan05singh/road-accident-severity-detection.git
 cd road-accident-severity-detection
 ```
 
